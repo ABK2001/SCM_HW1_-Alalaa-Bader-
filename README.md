@@ -3,4 +3,4 @@
  
  
  
- Software Configuration Management best practices. aaaaaa
+ Software Configuration Management best practices. 
